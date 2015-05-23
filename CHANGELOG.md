@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 5.3.1 - 2015-05-23
+* New branch by gafreax
+* Support no proxy
+
 ## 5.3.0 - 2015-05-19
 
 * Mock now supports `save_to`
